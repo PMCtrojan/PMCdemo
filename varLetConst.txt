@@ -1,8 +1,0 @@
-var									let								const
-Can be Redeclared					Cannot be Redeclared					Cannot be Reassigned
-Can declared and assigned the following value		Can declared and assigned the following value		Cannot declared and assigned the following value
-Can be used outside {}					Cannot be used outside {}				Cannot be used outside {}
-Can be Redeclaring Variables				Cannot be Redeclaring Variables				Cannot be Redeclaring Variables				
-Can use the variable before it is declared		Cannot use the variable before it is declared		Cannot use the variable before it is declared
-
-
