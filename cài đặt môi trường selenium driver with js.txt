@@ -1,0 +1,7 @@
+------- HD ---------
+B1 cài đặt visual studio code
+B2 cài đặt node js
+B3 kiểm tra node -v | npm -v
+B4 cài npm init ra file package.json
+B5 cài đặt selenium npm install selenium-webdriver  ra file package-lock.json
+b6 cài thêm trong visual code code running
